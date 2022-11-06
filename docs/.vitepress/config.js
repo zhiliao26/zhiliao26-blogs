@@ -1,6 +1,6 @@
 module.exports = {
 	title: '标题',
-	base: '/Blogs',
+	base: '/zhiliao26-blogs',
 	description: 'Just playing around.',
 	themeConfig: {
 		nav: [
